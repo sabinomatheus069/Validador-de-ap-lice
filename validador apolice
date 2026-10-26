@@ -629,3 +629,4 @@ else:
           f"* **Escolta / Dispositivos Adicionais:**"
           f" `{resultado_gr['escolta']}`"
       )
+
